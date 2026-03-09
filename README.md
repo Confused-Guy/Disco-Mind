@@ -5,7 +5,6 @@
 
 A locally-running AI application where the 24 psychological skill voices from **Disco Elysium** respond to your thoughts in real time. Built on Ollama, Piper TTS (migrating to XTTS v2 with cloned voices), and a single HTML file. No cloud. No API costs. No data leaving your machine.
 
-![Disco Mind UI](screenshot.png)
 
 ---
 
